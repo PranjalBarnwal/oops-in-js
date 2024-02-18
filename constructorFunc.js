@@ -1,3 +1,5 @@
+//to run link this file with html in script src
+
 function BankAccount(customerName, balance = 0) {
   this.customerName = customerName;
   this.accountNumber = Date.now();
