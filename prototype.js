@@ -26,4 +26,4 @@ rajAccount.deposit(3000);
 rajAccount.withdraw(1000);
 console.log(rajAccount);
 
-console.log(BankAccount.prototype);
+console.log(BankAccount.prototype); 
